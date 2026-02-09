@@ -10,7 +10,9 @@ A self-driven programmer focused on building a rock-solid foundation in software
 
 ### 🎯 What I'm Up To
 **The Core:** Mastering Algorithms & System Design via [ProgrammingAdvices Roadmap](https://programmingadvices.com/p/roadmap)
+<br>
 **Competitive Programming:** Sharpening logic on [Codeforces](https://codeforces.com/profile/Abdalkarem_Dafees)
+<br>
 **Future Goal:** Specializing in Machine Learning & LLMs
 
 ---

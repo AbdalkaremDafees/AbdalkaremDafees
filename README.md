@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Abdalkarem Dafees 👋
 
-<!--
-**AbdalkaremDafees/AbdalkaremDafees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS Student | Aspiring AI & ML Engineer**
 
-Here are some ideas to get you started:
+A self-driven programmer focused on building a rock-solid foundation in software engineering to craft intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 What I'm Up To
+- **The Core:** Mastering Algorithms, Data Structures, and System Design via [ProgrammingAdvices Roadmap](https://programmingadvices.com/p/roadmap).
+- **Competitive Programming:** Sharpening logic on [Codeforces](https://codeforces.com/profile/Abdalkarem_Dafees).
+- **Future Goal:** Specializing in Machine Learning & LLMs.
+
+---
+
+### 🛠️ Tech Stack
+`C++` `C#` `Algorithms` `Data Structures` `OOP`
+
+---
+
+### 📊 Stats & Presence
+<p align="left">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=abdalkarem-dafees&show_icons=true&theme=dark" />
+</p>
+
+[LinkedIn](https://linkedin.com/in/abdalkarem-dafees-ba8235385) • [Codeforces](https://codeforces.com/profile/Abdalkarem_Dafees)
